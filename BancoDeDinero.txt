@@ -1,2 +1,2 @@
-Dinero en el banco:2550
-Dinero efectivo:100
+Dinero en el banco:3000
+
